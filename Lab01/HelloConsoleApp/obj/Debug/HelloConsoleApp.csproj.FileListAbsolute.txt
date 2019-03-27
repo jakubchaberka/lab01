@@ -1,0 +1,7 @@
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe.config
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.pdb
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csprojAssemblyReference.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csproj.CoreCompileInputs.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.pdb
