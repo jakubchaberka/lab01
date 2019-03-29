@@ -29,6 +29,7 @@ namespace HelloConsoleBatch
                 Console.WriteLine(" Jesteś emerytem");
             }
 
+
         }
     }
 }

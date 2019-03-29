@@ -1,0 +1,7 @@
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\bin\Debug\HelloConsoleVBDialog.exe.config
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\bin\Debug\HelloConsoleVBDialog.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\bin\Debug\HelloConsoleVBDialog.pdb
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\obj\Debug\HelloConsoleVBDialog.csprojAssemblyReference.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\obj\Debug\HelloConsoleVBDialog.csproj.CoreCompileInputs.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\obj\Debug\HelloConsoleVBDialog.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleVBDialog\obj\Debug\HelloConsoleVBDialog.pdb
