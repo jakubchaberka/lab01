@@ -1,0 +1,10 @@
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe.config
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.pdb
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csprojAssemblyReference.cache
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Form1.resources
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Properties.Resources.resources
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.GenerateResource.cache
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.CoreCompileInputs.cache
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.exe
+E:\github\lab01\lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.pdb
