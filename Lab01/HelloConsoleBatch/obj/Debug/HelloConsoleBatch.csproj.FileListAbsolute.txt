@@ -1,0 +1,7 @@
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csprojAssemblyReference.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csproj.CoreCompileInputs.cache
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe.config
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.pdb
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.exe
+E:\github\lab01\lab01\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.pdb
